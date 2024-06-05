@@ -1,6 +1,8 @@
+![Banner](./Assets/banner.png)
+
 ## Clone Duolingo 
 
-Projeto de estudo
+Projeto realizado com o propósito de aprender organização de pastas e criação de SplashScreens.
 
 ## Technologies
 <div style="display: inline_block">
